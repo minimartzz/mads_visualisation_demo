@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/header.png" alt="logo" width="200" height="auto" />
+  <img src="assets/header.png" alt="logo" width="500" height="auto" />
   <h1>Visualisation Demo for SIADS 521</h1>
   
   <p>
